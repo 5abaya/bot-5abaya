@@ -1392,7 +1392,7 @@ http://king-ravana-md.pramesh192.repl.co
                 headerType: 4,
             };
             
-XeonBotInc.sendMessage(m.chat, h { quoted: m })
+XeonBotInc.sendMessage(m.chat, aliveMessage { quoted: m })
 }
 break
 
