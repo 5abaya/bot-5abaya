@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "5abayaBot-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD8",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/5abaya/bot-5abaya",
+  "logo": "https://i.ibb.co/NSfNkgT/channels4-profile.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
