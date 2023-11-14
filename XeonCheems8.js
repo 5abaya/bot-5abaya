@@ -1489,7 +1489,7 @@ XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Here is my h
 }
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
-XeonBotInc.relayMessage(m.chat, { reactionMessage }, { messageId: '💻' })
+
 let aliveMessage = {
                 image: {
                     url: "https://telegra.ph/file/d11473963441a9c19841a.jpg",
@@ -1513,25 +1513,7 @@ http://king-ravana-md.pramesh192.repl.co
                 footer: `*𝗞𝙸𝙽𝙶 𝗥𝙰𝚅𝙰𝙽𝙰 𝗠𝗗*`,
                 headerType: 4,
             };
-XeonBotInc.sendMessage(m.chat, {
 
-                audio: {
-
-                    url: `https://github.com/Pramesh04/sup_to_ravana/raw/main/alive.mp3`,
-
-                },
-
-                mimetype: "audio/mpeg",
-
-                fileName: `alive.mp3`,
-
-            },  { quoted: m })
-            XeonBotInc.sendMessage(m.chat, { sticker: { 
-
-                                 url: `https://github.com/Pramesh04/sup_to_ravana/raw/main/Sticker/alive.webp`,
-                                 },  
-                                 
-                                 }, { quoted: m })
 
             
 XeonBotInc.sendMessage(m.chat, aliveMessage { quoted: m })
