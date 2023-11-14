@@ -23,22 +23,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['212635988980'] //ur owner number
 global.ownernomer = "212635988980" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ownername = "5ABAYA" //ur owner name
+global.ytname = "YT: 5ABAYA" //ur yt chanel name
+global.socialm = "GitHub: 5ABAYA" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
+global.botname = "5ABAYA"
 global.ownernumber = '212635988980'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
+global.ownername = '🦄드림 가이 5ABAYA'
+global.ownerNumber = ["212635988980@s.whatsapp.net"]
+global.ownerweb = "https://www.youtube.com/@5abaya/channels"
+global.websitex = "https://www.youtube.com/@5abaya/channels"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.wm = "5ABAYA."
+global.botscript = 'https://github.com/5abaya/bot-5abaya' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n"
 global.creator = "212635988980@s.whatsapp.net"
