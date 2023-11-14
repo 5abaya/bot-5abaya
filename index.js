@@ -113,7 +113,7 @@ try{
             console.log(color(`< ================================================== >`, 'cyan'))
 	        console.log(color(`\n${themeemoji} YT CHANNEL: Xeon`,'magenta'))
             console.log(color(`${themeemoji} GITHUB: DGXeon `,'magenta'))
-            console.log(color(`${themeemoji} INSTAGRAM: @unicorn_xeon `,'magenta'))
+            console.log(color(`${themeemoji} INSTAGRAM: @5abaya `,'magenta'))
             console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
             console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
 		}
